@@ -39,7 +39,7 @@ std::string Logger::readRow(int number)
 		}
 		count++;
 	}
-	return row;
+	return "";
 }
 
 //записать в файл
